@@ -6,3 +6,4 @@ Ajout par Mohand dans le fork
 
 
 ajoute quelques fonctions 
+mohand 14h33
